@@ -20,4 +20,4 @@ The analysis covers the following:
 5) Root Cause Analysis to help the telecom understand what type of customers are usually at risk based on the characteristics of already churned customers provided in the dataset, and
 6) Recomendations were provided on how PhoneNow can improve on its services to reduce customer churn.
 
-The dashboard can either be dowloaded via github or viewed here (https://app.powerbi.com/view?r=eyJrIjoiMTA5NzQ5MzUtZDhiZC00YTNiLWIzMjItMThiZTZlYjFkYTVjIiwidCI6IjhiYWJhZjczLWVmYTgtNDU0OS04MGY3LTM3OThiZGVhNTZhNCJ9) 
+The dashboard can either be dowloaded via github or viewed [here](https://app.powerbi.com/view?r=eyJrIjoiMTA5NzQ5MzUtZDhiZC00YTNiLWIzMjItMThiZTZlYjFkYTVjIiwidCI6IjhiYWJhZjczLWVmYTgtNDU0OS04MGY3LTM3OThiZGVhNTZhNCJ9) 
